@@ -7,15 +7,15 @@ configures hot-key for launching a current visual studio instance in debug mode
 How to use
 =======================
 
-1- Clone the repository
-2- Execute the file:
+1. Clone the repository
+2. Execute the file:
     configure-shortcut.cmd
 
 
 Defaults:
 =========
-Hotkey: Ctrl+ALT+F5
-Shortcut: $Home\Desktop\INIT-DEBUG-VISUAL-STUDIO.lnk
+- Hotkey: Ctrl+ALT+F5
+- Shortcut: $Home\Desktop\INIT-DEBUG-VISUAL-STUDIO.lnk
 
 
 With an open project in Visual Studio, you should be able to Ctrl+Alt+F5
