@@ -1,0 +1,1 @@
+powershell.exe D:\tools\debug-visual-studio.ps1
