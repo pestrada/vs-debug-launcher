@@ -1,1 +1,1 @@
-powershell.exe -noexit .\set-shortcut.ps1 "$Home\Desktop\INIT-DEBUG-VISUAL-STUDIO.lnk" "Ctrl+Alt+F5"
+powershell.exe .\set-shortcut.ps1 "$Home\Desktop\INIT-DEBUG-VISUAL-STUDIO.lnk" "Ctrl+Alt+F5"

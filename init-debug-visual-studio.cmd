@@ -1,1 +1,1 @@
-powershell.exe D:\tools\debug-visual-studio.ps1
+powershell.exe %~dp0\debug-visual-studio.ps1
