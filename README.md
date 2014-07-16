@@ -1,4 +1,4 @@
-vsstudio-debug-launcher
+vs-debug-launcher
 =======================
 
 configures hot-key for launching a current visual studio instance in debug mode
@@ -12,7 +12,7 @@ How to use
     configure-shortcut.cmd
 
 
-Defaults:
+Defaults
 =========
 - Hotkey: Ctrl+ALT+F5
 - Shortcut: $Home\Desktop\INIT-DEBUG-VISUAL-STUDIO.lnk
